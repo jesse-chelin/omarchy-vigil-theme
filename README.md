@@ -9,5 +9,5 @@ A warm, muted theme for [Omarchy](https://omarchy.org) built around deep browns 
 ## Installation
 
 ```bash
-omarchy-theme-install https://github.com/bernardkung/omarchy-vigil-theme
+omarchy-theme-install https://github.com/jesse-chelin/omarchy-vigil-theme
 ```
